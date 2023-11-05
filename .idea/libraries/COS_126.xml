@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/.lift/stdlib.jar!/" />
       <root url="jar://$PROJECT_DIR$/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../algs4.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="https://introcs.cs.princeton.edu/java/stdlib/javadoc" />
@@ -11,6 +12,7 @@
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/.lift/stdlib.jar!/" />
       <root url="jar://$PROJECT_DIR$/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../algs4.jar!/" />
     </SOURCES>
   </library>
 </component>
